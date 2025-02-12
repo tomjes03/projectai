@@ -51,7 +51,7 @@ There are a few key ingredients about the design and training of k1.5.
 
 ```
 @article{MoonshotAI,
-  author = {Kimi Team},
+  author = {Kimi Team}, Thomas Jesus is currently researching on the project
   title = {Kimi k1.5: Scaling Reinforcement Learning with LLMs},
   year = {2025},
 }
